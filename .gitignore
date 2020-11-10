@@ -1,0 +1,5 @@
+my_pipeline.tar.gz
+tfx_pipeline_output
+tfx_metadata
+*.pyc
+.ipynb_checkpoints
